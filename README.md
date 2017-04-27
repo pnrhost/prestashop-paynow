@@ -1,0 +1,1 @@
+# prestashop-paynow
